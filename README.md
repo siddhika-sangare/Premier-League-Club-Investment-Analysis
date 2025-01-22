@@ -1,8 +1,6 @@
 # Premier-League-Club-Investment-Analysis
 Python Project 
 
-# Premier League Club Investment Analysis
-
 ## Introduction
 
 This project is focused on analyzing the performance of Premier League clubs with the objective of identifying potential clubs for investment. The analysis utilizes data from 29 clubs that have participated in the Premier League, examining performance metrics such as the number of wins, losses, draws, goals scored, and historical success (including titles won and runner-up finishes). The goal is to identify lesser-known clubs that have the potential to perform well in the future, which would be suitable for investment.
